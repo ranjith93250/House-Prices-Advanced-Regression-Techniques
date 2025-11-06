@@ -61,7 +61,7 @@ This was our entry into Kaggle's "Getting Started" competition series, and **WE 
 <a href="https://github.com/udaykiran2102"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/ranjith93250">
+<a href="https://github.com/ranjith93250"> 
 <img src="https://github.com/ranjith93250.png" width="150px" style="border-radius: 50%; border: 4px solid #FFD700;" alt="Ranjith Kumar Digutla"/>
 </a>
 <br />
