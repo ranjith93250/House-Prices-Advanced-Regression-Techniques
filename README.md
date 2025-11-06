@@ -1,6 +1,6 @@
 # 🏠 HOUSE PRICES - ADVANCED REGRESSION TECHNIQUES 🏠
  
-<div align="center">    
+<div align="center">      
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices-20BEFF?style=for-the-badge&logo=kaggle) 
 ![Rank](https://img.shields.io/badge/RANK-99%2F4250-FF6B6B?style=for-the-badge)
